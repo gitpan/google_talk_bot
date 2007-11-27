@@ -1,0 +1,31 @@
+Google Talk bot
+===================
+1)Synopsis (example)
+2)Description
+3)Author
+4)Licence
+
+
+SYNOPSIS
+
+perl google_bot.pl
+
+DESCRIPTION
+
+Google Bot - autoresponder on google talk
+
+Replace the various variables namely username and password and execute the script.
+
+Uses POE, in case you are rookie to POE contact Abhishek jain , he generally have time to help guys on Perl and POE.
+
+Abhishek wont mind been contacted.
+
+Virus free , Spam Free , Spyware Free Software and hopefully Money free software .
+
+AUTHOR
+
+<Abhishek jain>
+goyali at cpan.org
+
+LICENCE
+You are not allowed to modify the script unless having the written permission of abhishek jain
