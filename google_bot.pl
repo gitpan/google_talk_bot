@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+
+our $VERSION = '.01'; # Still in development but can give an idea.
+
+
 # Replace username and password
 
 # Messages and their replies
@@ -61,7 +65,7 @@ POE::Session->create(
 						Port => '5222',
 						Hostname => 'gmail.com',
 						Username => 'username@gmail.com',
-						Password => 'password',  #abhiabhi
+						Password => 'password',
 						Alias => 'COMPONENT',
 
 				# Shown below are the various connection types included
@@ -282,11 +286,13 @@ Abhishek wont mind been contacted.
 
 Virus free , Spam Free , Spyware Free Software and hopefully Money free software .
 
+
+
 =head1 AUTHOR
 
 <Abhishek jain>
 goyali at cpan.org
 
 =head1 SEE ALSO
-
+In case you need to implement this script on production and need expert help contact abhishek jain .
 =cut
